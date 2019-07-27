@@ -1,0 +1,5 @@
+# List of Litecoin IPv4 nodes sorted by 30 day availability, block height and version.
+
+178.150.251.24:25889
+185.227.110.169:25889
+185.181.8.38:25889
