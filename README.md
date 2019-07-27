@@ -1,7 +1,7 @@
 F1coin Core integration/staging tree
 =====================================
 
-https://f1coin.org
+http://f1coin.info
 
 What is F1coin?
 ----------------
@@ -13,7 +13,7 @@ out collectively by the network. F1coin Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the F1coin Core software, see https://f1coin.org
+the F1coin Core software, see http://f1coin.info
 
 License
 -------
@@ -39,10 +39,6 @@ Developers should expect to rework and resubmit patches if the code doesn't
 match the project's coding conventions (see [doc/coding.md](doc/coding.md)) or are
 controversial.
 
-The `master-0.10` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/f1coin-project/f1coin/tags) are created
-regularly to indicate new official, stable release versions of F1coin.
-
 Testing
 -------
 
@@ -51,13 +47,6 @@ requests than we can review and test on short notice. Please be patient and help
 other people's pull requests, and remember this is a security-critical project where any mistake might cost people
 lots of money.
 
-### Manual Quality Assurance (QA) Testing
-
-Large changes should have a test plan, and should be tested by somebody other
-than the developer who wrote the code.
-Creating a thread in the [F1coin discussion forum](https://f1cointalk.org/index.php?board=2.0) will allow the F1coin
-development team members to review your proposal and to provide assistance with creating a test plan. 
-
 
 Translations
 ------------
@@ -65,8 +54,6 @@ Translations
 **Important**: We do not accept translation changes as GitHub pull requests because the next
 pull from Transifex would automatically overwrite them again.
 
-We only accept translation fixes that are submitted through [Bitcoin Core's Transifex page](https://www.transifex.com/projects/p/bitcoin/).
-Translations are converted to F1coin periodically.
 
 Development tips and tricks
 ---------------------------
